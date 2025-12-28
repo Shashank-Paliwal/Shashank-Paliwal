@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on AI-based software development<br>🤝 I’m looking for help to work with ReactJS and React Native<br>🌱 I’m currently learning Flutter and Dart<br>💬 Ask me about Cloud Operations<br>⚡ Fun fact - I'm lazy with other things except work
+🔭 I’m currently working on Android Development<br>👯 I’m looking to collaborate on AI-based software development<br>💬 Ask me about Cloud Operations<br>⚡ Fun fact - I'm lazy with other things except work
 
 
 ## 🌐 Socials:
